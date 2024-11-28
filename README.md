@@ -11,7 +11,7 @@
 
     ```bash
     git clone git@github.com:Devpaz/TodolistApi.git
-    cd <nombre_del_repositorio>
+    cd <TodolistApi>
     ```
 
 2. **Construir y levantar contenedores**
